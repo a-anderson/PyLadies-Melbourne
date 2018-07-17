@@ -1,0 +1,8 @@
+Matplotlib Resources
+
+Real Python guide to matplotlib: https://realpython.com/python-matplotlib-guide/
+Matplotlib sample plots (with tutorials & code): https://matplotlib.org/tutorials/introductory/sample_plots.html
+A collection of matplotlib graphs (with code): https://python-graph-gallery.com/
+The matplotlib colour pallettes: https://matplotlib.org/users/colormaps.html
+Free O’Reilly books on python & data at Green Tea Press: https://greenteapress.com/wp/
+A blog post combining matplotlib and scipy.cluster: http://huboqiang.cn/2016/02/13/PyHeatMapHcl
